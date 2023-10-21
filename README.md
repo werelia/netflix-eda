@@ -4,11 +4,11 @@ Netflix is a subscription-based streaming service that allows our members to wat
 
 Given the large number of movies and series available on the platform, it is a great source of data to develop data manipulation skills and immerse yourself in the entertainment industry
 
-**Data Cleaning**
+##Data Cleaning
 
 I cleaned the data, got rid of missing values and duplicates
 
-**Exploratory Data Analysis**
+##Exploratory Data Analysis
 
 I drew many interesting inferences from the Netflix dataset. This is a summary of the few of them:
 
