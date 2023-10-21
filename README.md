@@ -43,5 +43,5 @@ I drew many interesting inferences from the Netflix dataset. This is a summary o
 
 - The most popular productions are international films and series, dramas and comedies.
 
-![Alt text](/genres_movies/.png?raw=true "")
+![Alt text](/genres_movies.png?raw=true "")
 ![Alt text](/genres_shows.png?raw=true "")
